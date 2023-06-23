@@ -1,5 +1,8 @@
 # Proyecto: Códigos de Huffman
 Este proyecto realiza la compresión de imágenes bmp por medio de los códigos de Huffman por medio del lenguaje java
+Integrantes:
+- Hernández Montero Juan Carlos
+- Montiel Gómez Erik Alain
 ## Pasos para compilar el problema
  1. Tener un IDE de java (El que se utilizó para la realización de la practica es IntelliJ IDEA)
  2. Cargar el proyecto
